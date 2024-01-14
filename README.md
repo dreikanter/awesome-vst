@@ -2,6 +2,10 @@
 
 A curated list of [VST](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) plugins.
 
+This list is not intended to encompass all available plugins but rather to serve as a reference for the most useful and time-tested plugins, presented with a straightforward structure and concise, no-nonsense descriptions.
+
+Feel free to suggest your favorite plugins, but please refrain from copying random products from the oversaturated VST marketplaces. Reference what you actually use and find indispensable in your work, and keep your descriptions succinct. This list is designed for users, not for sales purposes.
+
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
