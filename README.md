@@ -36,7 +36,7 @@ Chiptune:
 
 - [BPB 64](https://app.gumroad.com/d/bad87a6ced5edb7ca829cd6f8d006e2d) 🆓 by Bedroom Producers Blog - commodore 64 Virtual Instrument. [Demo](https://www.youtube.com/watch?v=5c6mQljB8MM)
 
-Hardware synths recreations:
+Hardware synth recreations:
 
 - [Acid V](https://www.arturia.com/products/software-instruments/acid-v/overview) by Arturia - 303 emulator, "corrosive bassline machine" as Arturia call it. [Demo 1](https://www.youtube.com/live/SzK9h2quTKo), [Demo 2](https://youtu.be/WmFIDpPmba4)
 - [DCO-106](https://cherryaudio.com/products/dco-106) by Cherry Audio - Roland Juno-106 recreation. [Demo](https://youtu.be/QPzn3kkHcI0)
@@ -68,7 +68,8 @@ SFX:
 - [Colour Copy](https://u-he.com/products/colourcopy/) by U-He - a virtual analog effect inspired by classic bucket-brigade delays (BBD), but extended with modern features. [Demo](https://youtu.be/4RBb4BfaHXw)
 - [Deelay](https://sixthsample.com/deelay/) 🆓 by Sixth Sample. [Demo](https://youtu.be/fjdps2evVlw)
 - [Other Desert Cities](https://www.audiodamage.com/collections/software/products/ad054-other-desert-cities) by AudioDamage. [Demo](https://youtu.be/eX4LPBi5Zd4)
-- [Outer Space 2 Vintage Tape Echo](https://www.audiothing.net/effects/outer-space/) by AudioThing - a faithful emulation plugin of a famous vintage - [Stardust 201 Tape Echo](https://cherryaudio.com/products/stardust-201) by Cherry Audio - a hot-rodded interpretation of the classic Roland "Space Echo" tape echo effects of the 70s and 80s. [Demo](https://youtu.be/IkNWnYxYER8)
+- [Outer Space 2 Vintage Tape Echo](https://www.audiothing.net/effects/outer-space/) by AudioThing - a faithful emulation plugin of a famous vintage
+- [Stardust 201 Tape Echo](https://cherryaudio.com/products/stardust-201) by Cherry Audio - a hot-rodded interpretation of the classic Roland "Space Echo" tape echo effects of the 70s and 80s. [Demo](https://youtu.be/IkNWnYxYER8)
 - [Valhalla Delay](https://valhalladsp.com/shop/delay/valhalladelay/) by Valhalla DSP. [Demo](https://youtu.be/1pDVayo9GWc)
 tape echo made in the early seventies. [Demo](https://youtu.be/xv5Up5LLxMI)
 
