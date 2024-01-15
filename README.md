@@ -12,7 +12,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Synths](#synths)
-- [Drums](#drums)
+- [Drums and Percussion](#drums-and-percussion)
 - [Effects](#effects)
   - [Reverbs](#reverbs)
   - [Delays](#delays)
