@@ -19,6 +19,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
   - [Granular Processors](#granular-processors)
   - [Saturators](#saturators)
   - [Other effects](#other-effects)
+- [Mixing and Mastering](#mixing-and-mastering)
 - [Utilities](#utilities)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -35,6 +36,9 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 Chiptune:
 
 - [BPB 64](https://app.gumroad.com/d/bad87a6ced5edb7ca829cd6f8d006e2d) 🆓 by Bedroom Producers Blog - commodore 64 Virtual Instrument. Demos: [1](https://www.youtube.com/watch?v=5c6mQljB8MM)
+- [Chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) by Plogue - SID sound chip emulation. Demos: [1](https://youtu.be/I0XxqbbT5qA)
+- [Chipsynth MD](https://www.plogue.com/products/chipsynth-md.html) by Plogue - OPN2 (YM2612) emulation (Sega Mega Drive/Genesis). Demos: [1](https://youtu.be/HYD83w5hr_s)
+- [SFC](https://www.plogue.com/products/chipsynth-sfc.html) by Plogue - 16-bit era timbre layering synthesizer (Super Nintendo Entertainment System). Demos: [1](https://youtu.be/wizYHoVxp4k)
 
 Hardware synth recreations:
 
@@ -42,6 +46,7 @@ Hardware synth recreations:
 - [DCO-106](https://cherryaudio.com/products/dco-106) by Cherry Audio - Roland Juno-106 recreation. Demos: [1](https://youtu.be/QPzn3kkHcI0)
 - [GX-80](https://cherryaudio.com/products/gx-80) by Cherry Audio - Yamaha CS-80 emulation. Demos: [1](https://youtu.be/5h-oki0UOFg), [2](https://youtu.be/MVJoT--Ix_w)
 - [Phoscyon](https://d16.pl/phoscyon) by d16 group - acid line synth, 303 silver box emulator. Demos: [1](https://youtu.be/_XRoT-FdqjU)
+- [dexed](https://asb2m10.github.io/dexed/) 🆓 - open source Yamaha DX7 emulation and MIDI cartridge manager. Demos: [1](https://youtu.be/wSs1-020nNY)
 
 SFX:
 
