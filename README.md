@@ -89,6 +89,12 @@ tape echo made in the early seventies. Demos: [1](https://youtu.be/xv5Up5LLxMI)
 - [ChowMultiTool](https://chowdsp.com/products.html) 🆓 by Chowdhury DSP - a "Swiss Army Knife" plugin containing EQ with linear phase and "drawable" capabilities, waveshaper with minimal aliasing and lots of customizability, band-Splitter with multiple outputs and perfect reconstruction, SVF with key tracking and parameter modulation (CLAP only).
 - [Infiltrator](https://deviousmachines.com/product/infiltrator/) by Devious Machines. Demos: [1](https://youtu.be/EKNqcRs24dc)
 
+## Mixing and Mastering
+
+- [Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) by FabFilter - high quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w)
+- [Pro-L 2](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) - true peak limiter plug-in, with multiple advanced limiting algorithms and extensive level and loudness metering. Demos: [1](https://youtu.be/oMJeWXtJODc)
+- [Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) by iZotope - overcome your listening environment and make mixes that translate.
+
 ## Utilities
 
 - [MultiOscillo](https://altarofwisdom.gumroad.com/l/multioscillo) by Altar of Wisdom (Max for Live) - oscilloscope. Demos: [1](https://youtu.be/OmbAe6leINU)
