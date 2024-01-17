@@ -28,6 +28,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 
 - [Diva](https://u-he.com/products/diva/) by U-He - "Dinosaur Impersonating Virtual Analogue synthesizer". Demos: [1](https://youtu.be/-PO84tYA6mA)
 - [Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) by Native Instruments - NI's flagship synth. Demos: [1](https://youtu.be/T4mfM73egsQ?si=rXQvDt2U8aznFgBo), [2](https://youtu.be/BYzagFV0eLM)
+- [NoiseMaker](https://tal-software.com/products/tal-noisemaker) by TAL Software - a virtual analog synthesizer with a great sound and low CPU usage. 128 factory presets included. Demo: [1](https://youtu.be/caw0PO31etA), [2](https://youtu.be/ZoMsXVFoAno)
 - [Phase Plant](https://kilohearts.com/products/phase_plant) by Kilohearts - an award-winning, semi-modular softsynth. Demos: [1](https://youtu.be/-GvapBwcUDI)
 - [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) by Arturia - Polychrome software synthesizer, a VST with the power to create any sound, from the best mix-ready modern presets to deep custom sound design. Demos: [1](https://youtu.be/fdkc8bnMUhY), [2](https://youtu.be/JUxs2JzJOio)
 - [Serum](https://xferrecords.com/products/serum/) by Xfer - advanced wavetable synthesizer.
@@ -96,8 +97,10 @@ tape echo made in the early seventies. Demos: [1](https://youtu.be/xv5Up5LLxMI)
 
 ## Mixing and Mastering
 
-- [Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) by FabFilter - high quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w)
+- [MasterPlan](https://www.musikhack.com/) by Musik Hack - radio-ready masters in minutes. Demos: [1](https://youtu.be/h2O4svLRgjI)
+- [Materme](https://github.com/trummerschlunk/master_me) - automatic audio mastering plugin for live-streaming and internet radio stations. Demo: [1](https://www.youtube.com/shorts/hIegFZ4LJMs)
 - [Pro-L 2](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) - true peak limiter plug-in, with multiple advanced limiting algorithms and extensive level and loudness metering. Demos: [1](https://youtu.be/oMJeWXtJODc)
+- [Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) by FabFilter - high quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w)
 - [Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) by iZotope - overcome your listening environment and make mixes that translate.
 
 ## Utilities
