@@ -21,6 +21,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
   - [Other effects](#other-effects)
 - [Mixing and Mastering](#mixing-and-mastering)
 - [Utilities](#utilities)
+- [Max for Live Devices](#max-for-live-devices)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -107,5 +108,11 @@ tape echo made in the early seventies. Demos: [1](https://youtu.be/xv5Up5LLxMI)
 
 ## Utilities
 
-- [MultiOscillo](https://altarofwisdom.gumroad.com/l/multioscillo) by Altar of Wisdom (Max for Live) - oscilloscope. Demos: [1](https://youtu.be/OmbAe6leINU)
 - [SL Oscilloscope](https://searchlife.gumroad.com/l/sl-oscilloscope) 🆓 (Max for Live) - oscilloscope, Goniometer, Phase Correlation meter, Stereo Balance meter and Peak Level indicator. Demos: [1](https://youtu.be/0qAzO6tQvoA)
+
+## Max for Live Devices
+
+This section is dedicated to notable extensions for [Max for Live](https://www.ableton.com/en/live/max-for-live/), which, while not formally VST plugins, are still worth mentioning.
+
+- [MultiOscillo](https://altarofwisdom.gumroad.com/l/multioscillo) by Altar of Wisdom - oscilloscope. Demos: [1](https://youtu.be/OmbAe6leINU)
+- [STING](https://maxforlive.com/library/device/8357/sting-by-iftah-a-really-nice-acid-line-generator) by IFTAH - acid line generator. Demo: [1](https://youtu.be/ywF4SFfwKs8)
