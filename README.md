@@ -34,6 +34,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) by Arturia - Polychrome software synthesizer, a VST with the power to create any sound, from the best mix-ready modern presets to deep custom sound design. Demos: [1](https://youtu.be/fdkc8bnMUhY), [2](https://youtu.be/JUxs2JzJOio)
 - [Serum](https://xferrecords.com/products/serum/) by Xfer - advanced wavetable synthesizer.
 - [Vital](https://vital.audio/) by Vital Audio - spectral warping wavetable synth. Demos: [1](https://youtu.be/7kNvSXxZrs4)
+- [Zebralette](https://u-he.com/products/zebralette/) by U-He - easy spectral synth. Demos: [1](https://youtu.be/G4HCHQteJlk), [2](https://youtu.be/gnevghILe8o)
 
 Chiptune:
 
