@@ -56,6 +56,7 @@ SFX:
 
 ## Drums and Percussion
 
+- [KICK 2](https://www.sonicacademy.com/products/kick-2) - kick drum synthesizer. Demos: [1](https://youtu.be/lvHjh2AWe8Y)
 - [Opal](https://fors.fm/opal) by Fors - drum synthesizer and sequencer. Demos: [1](https://youtu.be/87OGkyDBjvI), [2](https://youtu.be/kcuIYAj3y-E)
 - [Replicant](https://www.audiodamage.com/products/ad056-replicant-3) by AudioDamage - IDM-style glitchy rhythmic patterns with various effects and modulations. Demos: [1](https://youtu.be/yWPyRSURYFQ), [2](https://www.youtube.com/@d16group)
 - [Slammer](https://klevgrand.se/products/slammer) by Klevgrand - a multi-sampled drum plugin that contains 30 different instruments made from many carefully recorded and edited samples. Demos: [1](https://youtu.be/OVVxTH1pseU?si=AEhozygV04OMTOwl)
