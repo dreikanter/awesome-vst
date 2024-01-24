@@ -12,6 +12,10 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Synths](#synths)
+  - [General](#general)
+  - [Chiptune](#chiptune)
+  - [Hardware synth recreations](#hardware-synth-recreations)
+  - [SFX](#sfx)
 - [Drums and Percussion](#drums-and-percussion)
 - [Effects](#effects)
   - [Reverbs](#reverbs)
@@ -20,12 +24,13 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
   - [Saturators](#saturators)
   - [Other effects](#other-effects)
 - [Mixing and Mastering](#mixing-and-mastering)
-- [Utilities](#utilities)
 - [Max for Live Devices](#max-for-live-devices)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Synths
+
+### General
 
 - [Diva](https://u-he.com/products/diva/) by U-He - "Dinosaur Impersonating Virtual Analogue synthesizer". Demos: [1](https://youtu.be/-PO84tYA6mA)
 - [Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) by Native Instruments - NI's flagship synth. Demos: [1](https://youtu.be/T4mfM73egsQ?si=rXQvDt2U8aznFgBo), [2](https://youtu.be/BYzagFV0eLM)
@@ -36,14 +41,14 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [Vital](https://vital.audio/) by Vital Audio - spectral warping wavetable synth. Demos: [1](https://youtu.be/7kNvSXxZrs4)
 - [Zebralette](https://u-he.com/products/zebralette/) by U-He - easy spectral synth. Demos: [1](https://youtu.be/G4HCHQteJlk), [2](https://youtu.be/gnevghILe8o)
 
-Chiptune:
+### Chiptune
 
 - [BPB 64](https://app.gumroad.com/d/bad87a6ced5edb7ca829cd6f8d006e2d) 🆓 by Bedroom Producers Blog - commodore 64 Virtual Instrument. Demos: [1](https://www.youtube.com/watch?v=5c6mQljB8MM)
 - [Chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) by Plogue - SID sound chip emulation. Demos: [1](https://youtu.be/I0XxqbbT5qA)
 - [Chipsynth MD](https://www.plogue.com/products/chipsynth-md.html) by Plogue - OPN2 (YM2612) emulation (Sega Mega Drive/Genesis). Demos: [1](https://youtu.be/HYD83w5hr_s)
 - [SFC](https://www.plogue.com/products/chipsynth-sfc.html) by Plogue - 16-bit era timbre layering synthesizer (Super Nintendo Entertainment System). Demos: [1](https://youtu.be/wizYHoVxp4k)
 
-Hardware synth recreations:
+### Hardware synth recreations
 
 - [Acid V](https://www.arturia.com/products/software-instruments/acid-v/overview) by Arturia - 303 emulator, "corrosive bassline machine" as Arturia call it. Demos: [1](https://www.youtube.com/live/SzK9h2quTKo), [2](https://youtu.be/WmFIDpPmba4)
 - [DCO-106](https://cherryaudio.com/products/dco-106) by Cherry Audio - Roland Juno-106 recreation. Demos: [1](https://youtu.be/QPzn3kkHcI0)
@@ -51,7 +56,7 @@ Hardware synth recreations:
 - [Phoscyon](https://d16.pl/phoscyon) by d16 group - acid line synth, 303 silver box emulator. Demos: [1](https://youtu.be/_XRoT-FdqjU)
 - [dexed](https://asb2m10.github.io/dexed/) 🆓 - open source Yamaha DX7 emulation and MIDI cartridge manager. Demos: [1](https://youtu.be/wSs1-020nNY)
 
-SFX:
+### SFX
 
 - [Noises](https://www.audiothing.net/instruments/noises/) by AudioThing - an experimental instrument with a playful and inspiring interface designed to bring a vast world of noise into your music and audio production. Demos: [1](https://youtu.be/Nh8QxkOAokw)
 
@@ -108,13 +113,10 @@ tape echo made in the early seventies. Demos: [1](https://youtu.be/xv5Up5LLxMI)
 - [Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) by FabFilter - high quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w)
 - [Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) by iZotope - overcome your listening environment and make mixes that translate.
 
-## Utilities
-
-- [SL Oscilloscope](https://searchlife.gumroad.com/l/sl-oscilloscope) 🆓 (Max for Live) - oscilloscope, Goniometer, Phase Correlation meter, Stereo Balance meter and Peak Level indicator. Demos: [1](https://youtu.be/0qAzO6tQvoA)
-
 ## Max for Live Devices
 
-This section is dedicated to notable extensions for [Max for Live](https://www.ableton.com/en/live/max-for-live/), which, while not formally VST plugins, are still worth mentioning.
+Notable extensions for [Max for Live](https://www.ableton.com/en/live/max-for-live/), which, while not formally VST plugins, are still worth mentioning.
 
 - [MultiOscillo](https://altarofwisdom.gumroad.com/l/multioscillo) by Altar of Wisdom - oscilloscope. Demos: [1](https://youtu.be/OmbAe6leINU)
+- [SL Oscilloscope](https://searchlife.gumroad.com/l/sl-oscilloscope) 🆓 - oscilloscope, Goniometer, Phase Correlation meter, Stereo Balance meter and Peak Level indicator. Demos: [1](https://youtu.be/0qAzO6tQvoA)
 - [STING](https://maxforlive.com/library/device/8357/sting-by-iftah-a-really-nice-acid-line-generator) by IFTAH - acid line generator. Demo: [1](https://youtu.be/ywF4SFfwKs8)
