@@ -35,16 +35,16 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [Baby Audio Atoms](https://babyaud.io/atoms) - physical modeling synthesizer. Demos: [1](https://youtu.be/z57s9xPYUX0), [2](https://youtu.be/t9V_othnsPw)
 - [U-He Diva](https://u-he.com/products/diva/) - "Dinosaur Impersonating Virtual Analogue synthesizer". Demos: [1](https://youtu.be/-PO84tYA6mA)
 - [Native Instruments Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) - NI's flagship synth. Demos: [1](https://youtu.be/T4mfM73egsQ?si=rXQvDt2U8aznFgBo), [2](https://youtu.be/BYzagFV0eLM)
-- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) 🆓 - a virtual analog synthesizer with a great sound and low CPU usage. 128 factory presets included. Demo: [1](https://youtu.be/caw0PO31etA), [2](https://youtu.be/ZoMsXVFoAno)
+- [TAL NoiseMaker](https://tal-software.com/products/tal-noisemaker) - (free) a virtual analog synthesizer with a great sound and low CPU usage. 128 factory presets included. Demo: [1](https://youtu.be/caw0PO31etA), [2](https://youtu.be/ZoMsXVFoAno)
 - [Kilohearts Phase Plant](https://kilohearts.com/products/phase_plant) - an award-winning, semi-modular softsynth. Demos: [1](https://youtu.be/-GvapBwcUDI)
-- [Arturia Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) - Polychrome software synthesizer, a VST with the power to create any sound, from the best mix-ready modern presets to deep custom sound design. Demos: [1](https://youtu.be/fdkc8bnMUhY), [2](https://youtu.be/JUxs2JzJOio)
-- [Xfer Serum](https://xferrecords.com/products/serum/) - advanced wavetable synthesizer.
+- [Arturia Pigments](https://www.arturia.com/products/software-instruments/pigments/overview) - polychrome software synthesizer, a VST with the power to create any sound, from the best mix-ready modern presets to deep custom sound design. Demos: [1](https://youtu.be/fdkc8bnMUhY), [2](https://youtu.be/JUxs2JzJOio)
+- [Xfer Serum](https://xferrecords.com/products/serum/) - advanced wavetable synthesizer. Demos: [1](https://youtu.be/TZm4UjzqvL4)
 - [Vital](https://vital.audio/) - spectral warping wavetable synth. Demos: [1](https://youtu.be/7kNvSXxZrs4)
-- [U-He Zebralette](https://u-he.com/products/zebralette/) 🆓 - easy spectral synth with an advanced wavefor editor and overall impressive feature set for a free synt. Demos: [1](https://youtu.be/G4HCHQteJlk), [2](https://youtu.be/gnevghILe8o)
+- [U-He Zebralette](https://u-he.com/products/zebralette/) - (free) easy spectral synth with an advanced wavefor editor and overall impressive feature set for a free synt. Demos: [1](https://youtu.be/G4HCHQteJlk), [2](https://youtu.be/gnevghILe8o)
 
 ### Chiptune
 
-- [BPB 64](https://app.gumroad.com/d/bad87a6ced5edb7ca829cd6f8d006e2d) 🆓 - commodore 64 Virtual Instrument. Demos: [1](https://www.youtube.com/watch?v=5c6mQljB8MM)
+- [BPB 64](https://app.gumroad.com/d/bad87a6ced5edb7ca829cd6f8d006e2d) - (free) commodore 64 Virtual Instrument. Demos: [1](https://www.youtube.com/watch?v=5c6mQljB8MM)
 - [Plogue Chipsynth C64](https://www.plogue.com/products/chipsynth-c64.html) - SID sound chip emulation. Demos: [1](https://youtu.be/I0XxqbbT5qA)
 - [Plogue Chipsynth MD](https://www.plogue.com/products/chipsynth-md.html) - OPN2 (YM2612) emulation (Sega Mega Drive/Genesis). Demos: [1](https://youtu.be/HYD83w5hr_s)
 - [Plogue SFC](https://www.plogue.com/products/chipsynth-sfc.html) - 16-bit era timbre layering synthesizer (Super Nintendo Entertainment System). Demos: [1](https://youtu.be/wizYHoVxp4k)
@@ -55,7 +55,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [Cherry Audio DCO-106](https://cherryaudio.com/products/dco-106) - Roland Juno-106 recreation. Demos: [1](https://youtu.be/QPzn3kkHcI0)
 - [Cherry Audio GX-80](https://cherryaudio.com/products/gx-80) - Yamaha CS-80 emulation. Demos: [1](https://youtu.be/5h-oki0UOFg), [2](https://youtu.be/MVJoT--Ix_w)
 - [D16 Phoscyon](https://d16.pl/phoscyon) - acid line synth, 303 silver box emulator. Demos: [1](https://youtu.be/_XRoT-FdqjU)
-- [dexed](https://asb2m10.github.io/dexed/) 🆓 - open source Yamaha DX7 emulation and MIDI cartridge manager. Demos: [1](https://youtu.be/wSs1-020nNY)
+- [dexed](https://asb2m10.github.io/dexed/) - (free) open source Yamaha DX7 emulation and MIDI cartridge manager. Demos: [1](https://youtu.be/wSs1-020nNY)
 
 ### SFX
 
@@ -74,15 +74,15 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 ### Reverbs
 
 - [Eventide Blackhole](https://www.eventideaudio.com/plug-ins/blackhole/) - VST version of the effect pedal. Demos: [1](https://youtu.be/uxhrvO1imJs)
-- [Kilohearts Convolver](https://kilohearts.com/products/convolver) - to convolve is to multiply one sound with another... sort of. Demos: [1](https://youtu.be/VwWJTDzW-mQ), [2](https://youtu.be/uvMKOkkCwBU)
+- [Kilohearts Convolver](https://kilohearts.com/products/convolver) - to convolve is to multiply one sound with another. Sort of. Demos: [1](https://youtu.be/VwWJTDzW-mQ), [2](https://youtu.be/uvMKOkkCwBU)
 - [LiquidSonics Seventh Heaven](https://www.liquidsonics.com/software/seventh-heaven/) - convolution reverb, Bricasti M7 emulation. Demos: [1](https://youtu.be/gzjxnSW_7nM?si=hTUNgzqMRVEl1exj)
-- [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) 🆓 - best for massive reverbs, harmonic echoes, space sounds. Demos: [1](https://youtu.be/O0ItJOb_T34), [2](https://youtu.be/cdu6AH2VJWU)
+- [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) - (free) best for massive reverbs, harmonic echoes, space sounds. Demos: [1](https://youtu.be/O0ItJOb_T34), [2](https://youtu.be/cdu6AH2VJWU)
 - [Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) - 22 classic digital reverbs and three color modes inspired by the most beloved reverb hardware from the 1970s and 1980s. Demos: [1](https://youtu.be/L0z7u4j3Jfg)
 
 ### Delays
 
 - [U-He Colour Copy](https://u-he.com/products/colourcopy/) - a virtual analog effect inspired by classic bucket-brigade delays (BBD), but extended with modern features. Demos: [1](https://youtu.be/4RBb4BfaHXw)
-- [Sixth Sample Deelay](https://sixthsample.com/deelay/) 🆓 - diffusion for creating reverbs from small chambers to huge cinematic swells, distortion from subtle saturation to aggressive waveshaping, modulation for making your sounds come alive, and much more. Demos: [1](https://youtu.be/fjdps2evVlw)
+- [Sixth Sample Deelay](https://sixthsample.com/deelay/) - (free) diffusion for creating reverbs from small chambers to huge cinematic swells, distortion from subtle saturation to aggressive waveshaping, modulation for making your sounds come alive, and much more. Demos: [1](https://youtu.be/fjdps2evVlw)
 - [AudioDamage Other Desert Cities](https://www.audiodamage.com/collections/software/products/ad054-other-desert-cities) - with six algorithms, each with its own unique personality, and extensive modulation capabilities, Other Desert Cities can fill multiple niches, from basic stereo dual delays to never-before-heard granular pitch-shifting chaos. Demos: [1](https://youtu.be/eX4LPBi5Zd4)
 - [AudioThing Outer Space](https://www.audiothing.net/effects/outer-space/) - a faithful emulation plugin of a famous vintage tape echo made in the early seventies. Demos: [1](https://youtu.be/xv5Up5LLxMI)
 - [Cherry Audio Stardust 201 Tape Echo](https://cherryaudio.com/products/stardust-201) - a hot-rodded interpretation of the classic Roland "Space Echo" tape echo effects of the 70s and 80s. Demos: [1](https://youtu.be/IkNWnYxYER8)
@@ -90,7 +90,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 
 ### Granular Processors
 
-- [Emergence](https://daniel-gergely.itch.io/emergence) - granular processor.
+- [Emergence](https://daniel-gergely.itch.io/emergence) - granular processor. Demos: [1](https://youtu.be/PEB5pkHjVeo), [2](https://youtu.be/9YQKSd4nW4E)
 
 ### Saturators
 
@@ -98,7 +98,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 
 ### Other effects
 
-- [ChowMultiTool](https://chowdsp.com/products.html) 🆓 - a "Swiss Army Knife" plugin containing EQ with linear phase and "drawable" capabilities, waveshaper with minimal aliasing and lots of customizability, band-Splitter with multiple outputs and perfect reconstruction, SVF with key tracking and parameter modulation (CLAP only).
+- [ChowMultiTool](https://chowdsp.com/products.html) - (free) a "Swiss Army Knife" plugin containing EQ with linear phase and "drawable" capabilities, waveshaper with minimal aliasing and lots of customizability, band-Splitter with multiple outputs and perfect reconstruction, SVF with key tracking and parameter modulation (CLAP only).
 - [KLEVGR DAW Cassette](https://klevgrand.com/products/dawcassette) - tape Deck Emulation. Demos: [1](https://youtu.be/2Zu_OuAUPTo)
 - [KLEVGR DAW LP](https://klevgrand.com/products/dawlp) - vinyl Player Simulation. Demos: [1](https://youtu.be/tzgKTfmFzEo)
 - [Arturia Filter MS-20](https://www.arturia.com/products/software-effects/filter-ms-20/overview) - a software emulation of the classic Korg MS-20 analog synthesizer filter. Demos: [1](https://youtu.be/-V9m3iPLGI0), [2](https://youtu.be/-gXgonwwjj0)
@@ -109,15 +109,15 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 
 - [Masterme](https://github.com/trummerschlunk/master_me) - automatic audio mastering plugin for live-streaming and internet radio stations. Demo: [1](https://www.youtube.com/shorts/hIegFZ4LJMs)
 - [Musik Hack MasterPlan](https://www.musikhack.com/) - radio-ready masters in minutes. Demos: [1](https://youtu.be/h2O4svLRgjI)
-- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) 🆓 - parametric dynamic equalizer. Demos: [1](https://youtu.be/1CHFv4mWQYM)
+- [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - (free) parametric dynamic equalizer. Demos: [1](https://youtu.be/1CHFv4mWQYM)
 - [FabFilter Pro-L 2](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) - true peak limiter plug-in, with multiple advanced limiting algorithms and extensive level and loudness metering. Demos: [1](https://youtu.be/oMJeWXtJODc)
 - [FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) - high quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w)
-- [iZotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) - overcome your listening environment and make mixes that translate.
+- [Izotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) - overcome your listening environment and make mixes that translate. Demos: [1](https://youtu.be/PhAPM2XQWGI)
 
 ## Max for Live Devices
 
 Notable extensions for [Max for Live](https://www.ableton.com/en/live/max-for-live/), which, while not formally VST plugins, are still worth mentioning.
 
 - [Altar of Wisdom MultiOscillo](https://altarofwisdom.gumroad.com/l/multioscillo) - oscilloscope. Demos: [1](https://youtu.be/OmbAe6leINU)
-- [SL Oscilloscope](https://searchlife.gumroad.com/l/sl-oscilloscope) 🆓 - oscilloscope, Goniometer, Phase Correlation meter, Stereo Balance meter and Peak Level indicator. Demos: [1](https://youtu.be/0qAzO6tQvoA)
+- [SL Oscilloscope](https://searchlife.gumroad.com/l/sl-oscilloscope) - (free) oscilloscope, Goniometer, Phase Correlation meter, Stereo Balance meter and Peak Level indicator. Demos: [1](https://youtu.be/0qAzO6tQvoA)
 - [IFTAH STING](https://maxforlive.com/library/device/8357/sting-by-iftah-a-really-nice-acid-line-generator) - acid line generator. Demo: [1](https://youtu.be/ywF4SFfwKs8)
