@@ -32,6 +32,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 
 ### General
 
+- [Atoms](https://babyaud.io/atoms) by Baby Audio - physical modeling synthesizer. Demos: [1](https://youtu.be/z57s9xPYUX0), [2](https://youtu.be/t9V_othnsPw)
 - [Diva](https://u-he.com/products/diva/) by U-He - "Dinosaur Impersonating Virtual Analogue synthesizer". Demos: [1](https://youtu.be/-PO84tYA6mA)
 - [Massive X](https://www.native-instruments.com/en/products/komplete/synths/massive-x/) by Native Instruments - NI's flagship synth. Demos: [1](https://youtu.be/T4mfM73egsQ?si=rXQvDt2U8aznFgBo), [2](https://youtu.be/BYzagFV0eLM)
 - [NoiseMaker](https://tal-software.com/products/tal-noisemaker) 🆓 by TAL Software - a virtual analog synthesizer with a great sound and low CPU usage. 128 factory presets included. Demo: [1](https://youtu.be/caw0PO31etA), [2](https://youtu.be/ZoMsXVFoAno)
@@ -63,6 +64,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 ## Drums and Percussion
 
 - [KICK 2](https://www.sonicacademy.com/products/kick-2) - kick drum synthesizer. Demos: [1](https://youtu.be/lvHjh2AWe8Y)
+- [Motto Akemie](https://busycircuits.com/motto-akemie/) by ALM - FM drum synth and step sequencer. Demos: [1](https://youtu.be/42QbIRc43u8), [2](https://youtu.be/vr8r9NlSnHE)
 - [Opal](https://fors.fm/opal) by Fors - drum synthesizer and sequencer. Demos: [1](https://youtu.be/87OGkyDBjvI), [2](https://youtu.be/kcuIYAj3y-E)
 - [Replicant](https://www.audiodamage.com/products/ad056-replicant-3) by AudioDamage - IDM-style glitchy rhythmic patterns with various effects and modulations. Demos: [1](https://youtu.be/yWPyRSURYFQ), [2](https://www.youtube.com/@d16group)
 - [Slammer](https://klevgrand.se/products/slammer) by Klevgrand - a multi-sampled drum plugin that contains 30 different instruments made from many carefully recorded and edited samples. Demos: [1](https://youtu.be/OVVxTH1pseU?si=AEhozygV04OMTOwl)
