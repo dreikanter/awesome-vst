@@ -76,7 +76,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [Eventide Blackhole](https://www.eventideaudio.com/plug-ins/blackhole/) - VST version of the effect pedal. Demos: [1](https://youtu.be/uxhrvO1imJs)
 - [Kilohearts Convolver](https://kilohearts.com/products/convolver) - to convolve is to multiply one sound with another... sort of. Demos: [1](https://youtu.be/VwWJTDzW-mQ), [2](https://youtu.be/uvMKOkkCwBU)
 - [LiquidSonics Seventh Heaven](https://www.liquidsonics.com/software/seventh-heaven/) - convolution reverb, Bricasti M7 emulation. Demos: [1](https://youtu.be/gzjxnSW_7nM?si=hTUNgzqMRVEl1exj)
-- [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) 🆓 - best for massive reverbs, harmonic echoes, space sounds. Demos: [1](https://youtu.be/L0z7u4j3Jfg)
+- [Valhalla Super Massive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/) 🆓 - best for massive reverbs, harmonic echoes, space sounds. Demos: [1](https://youtu.be/O0ItJOb_T34), [2](https://youtu.be/cdu6AH2VJWU)
 - [Valhalla VintageVerb](https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/) - 22 classic digital reverbs and three color modes inspired by the most beloved reverb hardware from the 1970s and 1980s. Demos: [1](https://youtu.be/L0z7u4j3Jfg)
 
 ### Delays
