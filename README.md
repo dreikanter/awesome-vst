@@ -113,6 +113,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [FabFilter Pro-L 2](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) - True peak limiter plug-in, with multiple advanced limiting algorithms and extensive level and loudness metering. Demos: [1](https://youtu.be/oMJeWXtJODc).
 - [FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) - High quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w).
 - [Izotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) - Overcome your listening environment and make mixes that translate. Demos: [1](https://youtu.be/PhAPM2XQWGI).
+- [Eventide SplitEQ](https://www.eventideaudio.com/plug-ins/spliteq/)
 
 ## Max for Live Devices
 
