@@ -112,6 +112,7 @@ Feel free to suggest your favorite plugins, but please refrain from copying rand
 - [TDR Nova](https://www.tokyodawn.net/tdr-nova/) - (Free) Parametric dynamic equalizer. Demos: [1](https://youtu.be/1CHFv4mWQYM).
 - [FabFilter Pro-L 2](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in) - True peak limiter plug-in, with multiple advanced limiting algorithms and extensive level and loudness metering. Demos: [1](https://youtu.be/oMJeWXtJODc).
 - [FabFilter Pro-Q 3](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in) - High quality parametric equalizer. Demos: [1](https://youtu.be/IDMrLQGd21w).
+- [FreeEQ8](https://github.com/GareBear99/FreeEQ8) - (Free) Open-source 8-band parametric equalizer with linear phase, dynamic EQ, match EQ, per-band drive, M/S processing, and oversampling. VST3 / AU / Standalone on macOS, Windows, Linux.
 - [Izotope Tonal Balance Control](https://www.izotope.com/en/products/tonal-balance-control-2.html) - Overcome your listening environment and make mixes that translate. Demos: [1](https://youtu.be/PhAPM2XQWGI).
 - [Eventide SplitEQ](https://www.eventideaudio.com/plug-ins/spliteq/)
 
